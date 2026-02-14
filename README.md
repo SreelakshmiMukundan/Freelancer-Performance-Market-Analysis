@@ -139,6 +139,10 @@ Profile Value Score =
 - Microsoft Excel (Data Cleaning & PivotTables)
 - Power BI (Data Modeling & Dashboard Visualization)
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
 
 ##  Project Files
 
